@@ -45,7 +45,7 @@ REST API built from scratch using pure Python.
 ---
 
 ## 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazar-Goat)](https://github.com/Nazar-Goat/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazar-Goat)](https://github.com/Nazar-Goat/github-readme-stats)
 
 ---
 
