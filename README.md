@@ -37,10 +37,10 @@ REST API built from scratch using pure Python.
 **Tech:** Python • http.server • SQLite • unittest  
 **Features:** CRUD operations, currency conversion, comprehensive testing
 
-### ☁️ Cloud File Storage *(In Development)*
-Scalable file storage API with JWT authentication.  
-**Tech:** Django REST Framework • PostgreSQL • pytest  
-**Features:** User management, file operations, TDD approach
+### ☁️ [Blog-site](https://github.com/Nazar-Goat/app-news)
+.  News Site - A blog platform with a subscription system
+**Tech:** Django REST Framework • PostgreSQL • pytest • JWT • Celery 
+**Features:** User management, file operations, subscribe 
 
 ---
 
