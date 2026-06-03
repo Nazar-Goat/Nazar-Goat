@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Nazar Kozlovsky
+# 👋 Hi, I'm Nazar Kozlovskiy
 
-### 🐍 Python Backend Developer | Django & REST API Specialist
+### 🐍 Python Backend Developer
 
-Self-taught developer passionate about building robust web applications and RESTful APIs. I focus on clean code, testing, and continuous learning.
+Self-taught developer with 1.5 years of commercial experience in software development
 
 ---
 
@@ -12,6 +12,7 @@ Self-taught developer passionate about building robust web applications and REST
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -22,45 +23,27 @@ Self-taught developer passionate about building robust web applications and REST
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏠 [Home Furniture E-Commerce Store](https://github.com/Nazar-Goat/furniture-shop)
-Full-featured online store with cart, checkout, and admin panel.  
-**Tech:** Django • PostgreSQL • Docker • Nginx • Redis  
-**Features:** Search, filtering, caching, 85%+ test coverage
 
-### 💱 [Currency Exchange REST API](https://github.com/Nazar-Goat/currency-exchange)
-REST API built from scratch using pure Python.  
-**Tech:** Python • http.server • SQLite • unittest  
-**Features:** CRUD operations, currency conversion, comprehensive testing
+### 💱 [Mini-social API](https://github.com/Nazar-Goat/mini-social-api)
 
 ### ☁️ [Blog-site](https://github.com/Nazar-Goat/app-news)
-.  News Site - A blog platform with a subscription system
-**Tech:** Django REST Framework • PostgreSQL • pytest • JWT • Celery 
-**Features:** User management, file operations, subscribe 
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: zatsepylonazar@gmail.com
+- 📧 Email: kozlovskynazarcorp@gmail.com
 - 💬 Telegram: [@goat_naz](https://t.me/goat_naz)
-- 💼 Looking for: Junior Backend Developer positions (Remote)
-- 🌍 Location: Romania
+- 💼 Looking for: Python Backend Developer positions 
+- 🌍 Location: Kyiv, Ukraine
 - 🗣️ Languages: English (B2+), Ukrainian (Native), Russian (Fluent)
 
----
-
-## 🎯 Currently Learning
-
-- Advanced Django REST Framework patterns
-- Microservices architecture
-- CI/CD with GitHub Actions
-- Cloud deployment (AWS/DigitalOcean)
-
----
 
 ⭐️ From [Nazar-Goat](https://github.com/Nazar-Goat)
